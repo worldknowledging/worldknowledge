@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:Why are you here?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Our mission is to awaken your inner desire for learning and help you find meaning in life. What if we dedicated the same commitment to self-development and personal growth as we do to our daily education? 
+The rewards could be profound!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
